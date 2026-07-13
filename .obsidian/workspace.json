@@ -183,8 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "c6e87beec1e695eb",
+  "active": "833ec4fcc0030571",
   "lastOpenFiles": [
+    "VOL_1-partB.md",
+    "VOL_1-partA.md",
+    "VOL_springboot.md",
+    "VOL_fundamentals.md",
     "springboot.md",
     "VOL_be-processes.md",
     "VOL_docker.md",
