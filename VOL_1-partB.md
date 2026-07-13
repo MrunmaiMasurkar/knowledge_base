@@ -1,6 +1,4 @@
-Perfect. This is the **most important part of your interview preparation** because almost every interviewer (Bonami, GATP, or any Python backend role) will spend most of their time on your **BlueDigit Technologies** experience.
 
----
 
 # 📘 VOLUME 1 – PART B
 
@@ -409,7 +407,3 @@ Be prepared for questions like:
 * What would you improve if given six months?
 
 ---
-
-## This completes **Part B (Core Backend)**.
-
-The next part of Volume 1 would focus entirely on **Color Separation and K-Means**, because interviewers often spend 15–20 minutes drilling into that topic if they see it on your résumé. After that, we'll move on to your personal projects (AI Assistant, Candidate Ranker, and Devbrain Starter).

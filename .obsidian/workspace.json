@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "8769265e7826a058",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4f86a2a226e903a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "833ec4fcc0030571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VOL_1-partA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VOL_1-partA"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87bf997fa78d3808",
+    "type": "split",
+    "children": [
+      {
+        "id": "d173c9ea0ca75d8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6e87beec1e695eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2443369b86a04379",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d9ecf6c29f20ea49",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ece833414e6b3ba7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c43cddbaa7bd1720",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "821fb107e69814ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "VOL_1-partA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for VOL_1-partA"
+            }
+          },
+          {
+            "id": "966ac357e9003664",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "VOL_1-partA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from VOL_1-partA"
+            }
+          },
+          {
+            "id": "e8c0744030282f82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ec7ceed5b541a035",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "11992f0e3147fa32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "VOL_1-partA.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of VOL_1-partA"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c6e87beec1e695eb",
+  "lastOpenFiles": [
+    "VOL_be-processes.md",
+    "VOL_docker.md",
+    "VOL_proj-decisions.md",
+    "VOL_adv-backend.md",
+    "VOL_py-libs.md",
+    "VOL_dsa.md",
+    "fundamentals.md",
+    "VOL_sys-design.md",
+    "VOL_hr.md",
+    "VOL_oops.md",
+    "VOL_microservices&api-gateways.md",
+    "VOL_bg-process.md",
+    "VOL_aws-cloude.md",
+    "VOL_system-design.md",
+    "VOL_design-pattern-solid-principles.md",
+    "VOL_performance_db-optimization.md",
+    "VOL_security.md",
+    "VOL_adv-sql-postgress.md",
+    "VOL_sql.md",
+    "VOL_Automation_deve.md",
+    "VOL_Python.md"
+  ]
+}

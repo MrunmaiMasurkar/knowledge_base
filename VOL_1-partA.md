@@ -1,6 +1,3 @@
-Absolutely. This is how I want to prepare you. Not by memorizing answers, but by making you capable of answering **any cross-question**. Since tomorrow's interview is for **Automation Developer**, we'll start with **Volume 1: Resume Deep Dive**.
-
----
 
 # 📘 VOLUME 1 – RESUME DEEP DIVE
 
@@ -418,6 +415,3 @@ Be ready for these follow-ups:
 
 ---
 
-## This is only **Part A** of Volume 1.
-
-The next part—**BlueDigit Technologies**—is much larger (around **120–150 questions**) because it's the experience most interviewers will focus on. We'll cover FastAPI, async programming, PostgreSQL, AI provider routing, retries, S3, Firebase, K-Means, architecture, scalability, and all the cross-questions you've been practicing. That's the most important section for your upcoming interviews.
